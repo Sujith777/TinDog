@@ -1,1 +1,1 @@
-A responsive webpage layout for dogs mimicking Tinder app using bootstrap.
+A responsive webpage layout for a dating app for dogs mimicking the Tinder app using bootstrap.
